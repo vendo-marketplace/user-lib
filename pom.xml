@@ -5,7 +5,7 @@
 
     <groupId>io.github.vendo-marketplace-be</groupId>
     <artifactId>user-lib</artifactId>
-    <version>0.0.1</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>user-lib</name>
