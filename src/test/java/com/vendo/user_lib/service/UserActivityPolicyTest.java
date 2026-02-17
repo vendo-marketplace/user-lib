@@ -1,10 +1,10 @@
-package com.vendo.service;
+package com.vendo.user_lib.service;
 
-import com.vendo.dto.UserActivityViewImpl;
-import com.vendo.exception.UserBlockedException;
-import com.vendo.exception.UserEmailNotVerifiedException;
-import com.vendo.exception.UserIsUnactiveException;
-import com.vendo.type.UserStatus;
+import com.vendo.user_lib.dto.UserActivityViewImpl;
+import com.vendo.user_lib.exception.UserBlockedException;
+import com.vendo.user_lib.exception.UserEmailNotVerifiedException;
+import com.vendo.user_lib.exception.UserIsUnactiveException;
+import com.vendo.user_lib.type.UserStatus;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

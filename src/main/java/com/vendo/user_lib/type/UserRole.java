@@ -1,4 +1,4 @@
-package com.vendo.type;
+package com.vendo.user_lib.type;
 
 public enum UserRole {
 

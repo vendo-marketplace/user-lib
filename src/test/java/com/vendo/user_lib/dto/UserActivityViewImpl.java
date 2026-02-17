@@ -1,7 +1,7 @@
-package com.vendo.dto;
+package com.vendo.user_lib.dto;
 
-import com.vendo.service.UserActivityView;
-import com.vendo.type.UserStatus;
+import com.vendo.user_lib.service.UserActivityView;
+import com.vendo.user_lib.type.UserStatus;
 import lombok.Builder;
 import lombok.Data;
 
